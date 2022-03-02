@@ -10,9 +10,9 @@
 <h2 align="center"> LOGIN WITH USERNAME & PASSWORD</h2>
 
 
-</h3 align="center"> NEW PAKISTANI ACCOUNT CLONER</h3>
+<h3 align="center"> NEW PAKISTANI ACCOUNT CLONER</h3>
 
-</h4 align="center"> PAKISTANI NUMBER ID CLONNIG TOOLS</h4>
+<h4 align="center"> PAKISTANI NUMBER ID CLONNIG TOOLS</h4>
 
 
 # <b>Installation</b>
