@@ -3,24 +3,19 @@
 
 <h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 
-<h1 align="center"> |MR.NIKI|</h1>
+<h1 align="center"> MR.NIKI</h1>
 
 
 
-<h2 align="center"> LOGIN WITH USERNAME & PASSWORD</h2>
+<h2> align="center"> LOGIN WITH USERNAME & PASSWORD</h2>
 
 
-<p align="center">
-     NEW PK-CRACK CLONING
-</p>
+</h3> align="center"> NEW PAKISTANI ACCOUNT CLONER</h3>
+
+</h4> align="center"> PAKISTANI NUMBER ID CLONNIG TOOLS</h4>
 
 
-
-<p align="center">
-              Mr.NIKI
-
-
-## <b>installation</b>
+# <b>Installation</b>
 
 ```
 ✳️ cd
